@@ -1,4 +1,4 @@
-[
+
    {
       "name": "table",
       "values": [
@@ -12,4 +12,3 @@
         {"category": "H", "amount": 87}
       ]
   }
-]
