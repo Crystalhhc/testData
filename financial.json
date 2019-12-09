@@ -1,0 +1,900 @@
+
+{
+    "orgazization": "Belstar HQ",
+    "currency": "NT$",
+    "statements": [
+        {              
+            "year": "2011",
+            "category": "Revenue",
+            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+        },{
+            "year": "2011",
+            "category": "Expense",
+            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+        },{
+            "year": "2011",
+            "category": "Profit before Tax",
+            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+        },{
+            "year": "2012",
+            "category": "Revenue",
+            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+        },{
+            "year": "2012",
+            "category": "Expense",
+            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+        },{
+            "year": "2012",
+            "category": "Profit before Tax",
+            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+        }   
+    ],
+    "children": [
+        {
+            "orgazization": "Boltom HK",
+            "currency": "US$",
+            "statements": [
+                {
+                    "year": "2011",
+                    "category": "Revenue",
+                    "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                },{
+                    "year": "2011",
+                    "category": "Expense",
+                    "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                },{
+                    "year": "2011",
+                    "category": "Profit before Tax",
+                    "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                },{
+                    "year": "2012",
+                    "category": "Revenue",
+                    "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                },{
+                    "year": "2012",
+                    "category": "Expense",
+                    "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                },{
+                    "year": "2012",
+                    "category": "Profit before Tax",
+                    "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                }  
+            ],
+            "children": [    
+                {
+                    "orgazization": "Belstar Beijing",
+                    "currency": "RMB",
+                    "statements": [
+                        {
+                            "year": "2019",
+                            "type": "Result",
+                            "category": "Revenue",
+                            "annual": 10000,
+                            "details": [
+                                {
+                                    "month": "1",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ],
+                                    "byProduct": [
+                                        {
+                                            "area": "Product Sales",
+                                            "value": 500
+                                        },{
+                                            "area": "Data Service",
+                                            "value": 200
+                                        },{
+                                            "area": "Maintenance",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "2",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ],
+                                    "byProduct": [
+                                        {
+                                            "area": "Product Sales",
+                                            "value": 500
+                                        },{
+                                            "area": "Data Service",
+                                            "value": 200
+                                        },{
+                                            "area": "Maintenance",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "3",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ],
+                                    "byProduct": [
+                                        {
+                                            "area": "Product Sales",
+                                            "value": 500
+                                        },{
+                                            "area": "Data Service",
+                                            "value": 200
+                                        },{
+                                            "area": "Maintenance",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "4",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ],
+                                    "byProduct": [
+                                        {
+                                            "area": "Product Sales",
+                                            "value": 500
+                                        },{
+                                            "area": "Data Service",
+                                            "value": 200
+                                        },{
+                                            "area": "Maintenance",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "5",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ],
+                                    "byProduct": [
+                                        {
+                                            "area": "Product Sales",
+                                            "value": 500
+                                        },{
+                                            "area": "Data Service",
+                                            "value": 200
+                                        },{
+                                            "area": "Maintenance",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "6",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ],
+                                    "byProduct": [
+                                        {
+                                            "area": "Product Sales",
+                                            "value": 500
+                                        },{
+                                            "area": "Data Service",
+                                            "value": 200
+                                        },{
+                                            "area": "Maintenance",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                }
+                            ]     
+                        },{
+                            "year": "2011",
+                            "type": "Result",
+                            "category": "Expense",
+                            "annual": 10000,
+                            "details": [
+                                {
+                                    "month": "1",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ],
+                                    "byProduct": [
+                                        {
+                                            "area": "Product Sales",
+                                            "value": 500
+                                        },{
+                                            "area": "Data Service",
+                                            "value": 200
+                                        },{
+                                            "area": "Maintenance",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "2",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ],
+                                    "byProduct": [
+                                        {
+                                            "area": "Product Sales",
+                                            "value": 500
+                                        },{
+                                            "area": "Data Service",
+                                            "value": 200
+                                        },{
+                                            "area": "Maintenance",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "3",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ],
+                                    "byProduct": [
+                                        {
+                                            "area": "Product Sales",
+                                            "value": 500
+                                        },{
+                                            "area": "Data Service",
+                                            "value": 200
+                                        },{
+                                            "area": "Maintenance",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "4",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ],
+                                    "byProduct": [
+                                        {
+                                            "area": "Product Sales",
+                                            "value": 500
+                                        },{
+                                            "area": "Data Service",
+                                            "value": 200
+                                        },{
+                                            "area": "Maintenance",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "5",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ],
+                                    "byProduct": [
+                                        {
+                                            "area": "Product Sales",
+                                            "value": 500
+                                        },{
+                                            "area": "Data Service",
+                                            "value": 200
+                                        },{
+                                            "area": "Maintenance",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "6",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ],
+                                    "byProduct": [
+                                        {
+                                            "area": "Product Sales",
+                                            "value": 500
+                                        },{
+                                            "area": "Data Service",
+                                            "value": 200
+                                        },{
+                                            "area": "Maintenance",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                }
+                            ]     
+                        },{
+                            "year": "2019",
+                            "type": "Result",
+                            "category": "Profit before Tax",
+                            "annual": 10000,
+                            "details": [
+                                {
+                                    "month": "1",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                        
+                                },{
+                                    "month": "2",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "3",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                        
+                                },{
+                                    "month": "4",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "5",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "6",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                        
+                                }
+                            ]     
+                        },{
+                            "year": "2019",
+                            "type": "Budget",
+                            "category": "Revenue",
+                            "annual": 10000,
+                            "details": [
+                                {
+                                    "month": "1",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                        
+                                },{
+                                    "month": "2",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "3",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                        
+                                },{
+                                    "month": "4",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "5",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "6",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                        
+                                }
+                            ]     
+                        },{
+                            "year": "2019",
+                            "type": "Budget",
+                            "category": "Expense",
+                            "annual": 10000,
+                            "details": [
+                                {
+                                    "month": "1",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                        
+                                },{
+                                    "month": "2",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "3",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                        
+                                },{
+                                    "month": "4",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "5",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "6",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                        
+                                }
+                            ]     
+                        },{
+                            "year": "2019",
+                            "type": "Budget",
+                            "category": "Profit before Tax",
+                            "annual": 10000,
+                            "details": [
+                                {
+                                    "month": "1",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                        
+                                },{
+                                    "month": "2",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "3",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                        
+                                },{
+                                    "month": "4",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "5",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                         
+                                },{
+                                    "month": "6",
+                                    "value":"1000",
+                                    "byArea":[
+                                        {
+                                            "area": "Beijing",
+                                            "value": 500
+                                        },{
+                                            "area": "Shanghai",
+                                            "value": 200
+                                        },{
+                                            "area": "Gungzhou",
+                                            "value": 300
+                                        }
+                                    ]                        
+                                }
+                            ]     
+                        }
+                    ]
+                }               
+            ]
+        },{
+            "orgazization": "百星數位智能（台灣分公司）",
+            "currency": "NT$",
+            "statements": [
+                {
+                    "year": "2011",
+                    "category": "Revenue",
+                    "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                },{
+                    "year": "2011",
+                    "category": "Expense",
+                    "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                },{
+                    "year": "2011",
+                    "category": "Profit before Tax",
+                    "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                },{
+                    "year": "2012",
+                    "category": "Revenue",
+                    "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                },{
+                    "year": "2012",
+                    "category": "Expense",
+                    "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                },{
+                    "year": "2012",
+                    "category": "Profit before Tax",
+                    "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                }  
+            ],
+            "children": [    
+                {
+                    "orgazization": "集團總管理處",
+                    "currency": "NT$",
+                    "statements": [
+                        {                          
+                            "year": "2011",
+                            "category": "Revenue",
+                            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                        },{
+                            "year": "2011",
+                            "category": "Expense",
+                            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                        },{
+                            "year": "2011",
+                            "category": "Profit before Tax",
+                            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                        },{
+
+                            "year": "2012",
+                            "category": "Revenue",
+                            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                        },{
+                            "year": "2012",
+                            "category": "Expense",
+                            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                        },{
+                            "year": "2012",
+                            "category": "Profit before Tax",
+                            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                        }  
+                    ]
+                },{
+                    "orgazization": "高雄研發中心",
+                    "currency": "NT$",
+                    "statements": [
+                        {
+                            "year": "2017",
+                            "category": "Revenue",
+                            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                        },{
+                            "year": "2017",
+                            "category": "Expense",
+                            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                        },{
+                            "year": "2017",
+                            "category": "Profit before Tax",
+                            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                        },{
+                            "year": "2018",
+                            "category": "Revenue",
+                            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                        },{
+                            "year": "2018",
+                            "category": "Expense",
+                            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                        },{
+                            "year": "2018",
+                            "category": "Profit before Tax",
+                            "values": [{"month": "1","value":"10000"},{"month": "2","value":"10000"},{"month": "3","value":"10000"},{"month": "4","value":"10000"},{"month": "5","value":"10000"},{"month": "6","value":"10000"}]
+                        }  
+                    ]
+                }
+            ]       
+        }
+    ]
+}
